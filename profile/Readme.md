@@ -12,5 +12,5 @@ Welcome to Adaptive's Github Org. We build platform to support seamless access t
 The [Adaptive's community](
 https://join.slack.com/t/adaptivecommunity/shared_invite/zt-1d7y61kc5-ERY7hQnFGvBQEXu9s1JcMQ) is comprised of people using Adaptive, users, external tech champions and partners. We maintain a community Slack and answer questions on the chat.
 
-[Click here to join](
+[Click here to join ->](
 https://join.slack.com/t/adaptivecommunity/shared_invite/zt-1d7y61kc5-ERY7hQnFGvBQEXu9s1JcMQ)
