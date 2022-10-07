@@ -1,6 +1,6 @@
 # Adaptive
 
-Welcome to Adaptive's Github Org. We build platform to support seamless access to various cloud resources, lower cloud operations barriers and other tools that developer find userful.
+Welcome to Adaptive's Github Org. We are a platform for seamless access to and operations on various cloud resources.
 
  <img  align="right" src="https://adaptive.live/adaptive-logo.png" data-canonical-src="https://adaptive.live/adaptive-logo.png" width="180" height="48" />
  
